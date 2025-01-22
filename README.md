@@ -30,7 +30,7 @@ I turn ideas into reality with code. As a software developer, I thrive on solvin
 ## 🛠 Tech Stack  
 
 <p align="left">  
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,docker,kubernetes,aws,linux" alt="Tech Stack" />  
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,linux" alt="Tech Stack" />  
 </p>  
 
 - **Backend:** FastAPI, Django, DRF, Flask  
