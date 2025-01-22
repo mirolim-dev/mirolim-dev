@@ -1,6 +1,6 @@
 # Assalamu alaykum 👋, I'm Mirolim 
 
-I turn ideas into reality with code. As a software developer, I thrive on solving challenges, optimizing systems, and building scalable applications. Whether it's architecting microservices, designing robust APIs, or enhancing system performance—I love what I do!  
+I turn ideas into reality with code. As a software developer, I thrive on solving challenges, optimizing systems, and building scalable applications. Whether it's architecting microservices, designing robust APIs, or enhancing system performance — I love what I do!  
 
 ---
 
