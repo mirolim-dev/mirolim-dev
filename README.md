@@ -35,9 +35,7 @@ I turn ideas into reality with code. As a software developer, I thrive on solvin
 
 - **Backend:** FastAPI, Django, DRF, Flask  
 - **Databases:** PostgreSQL, MySQL  
-- **DevOps:** Docker, Kubernetes, CI/CD with GitHub Actions  
-- **Cloud:** AWS, GCP  
-- **Security:** JWT, OAuth  
+- **Security:** JWT, OAuth, BasicAuth
 
 ---
 
