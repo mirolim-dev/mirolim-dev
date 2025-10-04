@@ -61,7 +61,7 @@ I turn ideas into reality with code. As a software developer, I thrive on solvin
 
 - 📧 [Email Me](mailto:mirolimcoder@example.com)  
 - 💼 [![LinkedIn]](https://www.linkedin.com/in/mirolim-turgunov)
-- 🐦 [![Telegram]](https://t.me/mirolim_dev)
+- 🐦 [![Telegram]](https://t.me/mirolimturgun)
 
 ---
 
